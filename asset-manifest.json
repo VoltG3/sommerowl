@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/sommerowl/static/js/main.a343c37c.js",
+    "index.html": "/sommerowl/index.html",
+    "main.a343c37c.js.map": "/sommerowl/static/js/main.a343c37c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a343c37c.js"
+  ]
+}
